@@ -1,7 +1,11 @@
 # Ryan-Edgar
 
 
+**`Digital Craftsman`**
+
 I am a full stack developer natively using the MERN stack with extensive experience in javascript, C++, C, HTML 5, Mongo DB, Express, JS Node, and ract with a vocational degree in computer information systems and an IC3 certificate. All code is built from the same characters, its the differenct in the combination of characters that make the differnece between average and ground breaking.
+
+---
 
 ### 🧰 Languages and Tools
 
