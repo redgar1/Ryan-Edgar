@@ -35,5 +35,5 @@ I am a full stack developer natively using the MERN stack with extensive experie
 ![Ryan Edgar's GitHub stats](https://github-readme-stats.vercel.app/api?username=redgar1&show_icons=true&theme=radical)
 
 
-<summary><h3>I started coding at a very young age learning a "hello world" prompt form my father that programed PPV chips and programs on paper to feed into a computer to execute the program. Since a young age i have always been wanting to joing the world of coding and development, between fresh new ideas that will lead my generation to a new age of development and application interface i have always wanted to push the limits of what we currently do and know and explore the world of programing and development. In an environment that is as old as I am, I believe i bring a fresh curent view on coding applications and software development.
-</h3>
+<summary><h1>I started coding at a very young age learning a "hello world" prompt form my father that programed PPV chips and programs on paper to feed into a computer to execute the program. Since a young age i have always been wanting to join the world of coding and development, between fresh new ideas that will lead my generation to a new age of development and application interface i have always wanted to push the limits of what we currently do and know and explore the world of programing and development. In an environment that is as old as I am, I believe i bring a fresh curent view on coding applications and software development.
+</h1>
